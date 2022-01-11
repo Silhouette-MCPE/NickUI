@@ -1,0 +1,9 @@
+name: NickUI
+version: 1.0
+author: Dready
+api: 3.0.0, 4.0.0
+main: Dready\nickui
+commands:
+  nick:
+    description: Nick Command
+    permission: nick.use

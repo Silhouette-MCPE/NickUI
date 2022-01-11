@@ -1,0 +1,57 @@
+﻿
+
+random-nick: true
+
+
+
+random-nicks:
+  - Gandalf07Yt
+  - Gamer472
+  - LeonLP
+  - MaxIsDa
+  - Joseph739
+  - TheJungleGuy07
+  - PopsicleTraitor78493
+  - EliminatedSquad749
+  - GameHunter783
+  - NoobUser10
+  - LolipopSong78292
+  - TestifiedPlugin1010
+  - NetherHacker2904
+  - ImplmentedMob839
+  - ExtendedClass982
+  - FactorialToast793
+  - Lacunate27859
+  - Coramhawk681997
+  - Hydricster455
+  - RalphmetsHydric
+  - Hubrisda_n00b
+  - Troatybunny2705
+  - Ripplehef109
+  - Ambeerman1970
+  - Fueroze0403
+  - Testerrus3013
+  - GhostfreakRisus
+
+
+custom-nick: true
+not-allow-custom-nicks:
+  - ServerTeam
+  - Owner
+  - Admin
+  - Mod
+  - Builder
+
+
+
+
+Main-Title: "§lNickUI"
+Main-Button-CustomNick: "§lCustom Nick"
+Main-Button-RandomNick: "§lRandom Nick"
+Main-Button-Close: "§lClose"
+
+CustomNick-Title: "§lCustom Nick"
+nick-set: "Your Nick was set to {nick}"
+not-allowed-nick: "This Nick is not allowed"
+
+
